@@ -53,7 +53,7 @@ to regist AWS16K dataset and FDTran model.
 
 ### Dataset
 
-Our AWS16K dataset can be found at [AWS16K](https://pan.baidu.com/s/1bUi_k14JIQt2Wbemx6LLTg) (password: awbs), then you need to convert 255 pixels to 1 for training and testing.
+Our AWS16K dataset can be found at [AWS16K](https://pan.baidu.com/s/1_YdbGiGYKNv-lfhd2C5KlA) (code: awbs), then you need to convert 255 pixels to 1 for training and testing.
 
 ### Train and Test
 
@@ -74,7 +74,7 @@ Our AWS16K dataset can be found at [AWS16K](https://pan.baidu.com/s/1bUi_k14JIQt
   --work-dir work_path
   ```
 
-The pretrained weights of FDTran (with mit_b5 as backbone) can be found at [https://pan.baidu.com/s/1Gbh0SZiswnzykhwb5z_PcQ](https://pan.baidu.com/s/1Gbh0SZiswnzykhwb5z_PcQ) (password: fdt1).
+The pretrained weights of FDTran (with mit_b5 as backbone) can be found at [https://pan.baidu.com/s/1IOq96KEZdE4ytD6V6Irr-w](https://pan.baidu.com/s/1IOq96KEZdE4ytD6V6Irr-w) (code: fdt1).
 
 ## Citation
 
