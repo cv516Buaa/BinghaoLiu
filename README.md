@@ -10,3 +10,7 @@ Semantic Segmentation:
 ## Datasets
 Africa water segmentation dataset:
 [AWS16K](https://pan.baidu.com/s/1_YdbGiGYKNv-lfhd2C5KlA) (code: awbs)
+
+## Citation
+
+If you have any question, please discuss with me by sending email to liubinghao@buaa.edu.cn
