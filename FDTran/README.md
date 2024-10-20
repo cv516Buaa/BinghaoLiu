@@ -45,7 +45,7 @@ The cross-layer information separability based Feature Decoupling Transformer:
 
 ### Install
 
-Clone [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) repo and add the codes of `configs`, `mmseg/datasets/aws.py` and `mmseg/models/decode_heads/fdt_head.py` into corresding files of MMSegmentation.
+Clone [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) repo and [FDTran](https://github.com/BinghaoLiu/FDTran) repo, add the codes of `configs`, `mmseg/datasets/aws.py` and `mmseg/models/decode_heads/fdt_head.py` into corresding files of MMSegmentation.
 
 Then, run
 `pip install -v -e .`
