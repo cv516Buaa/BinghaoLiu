@@ -36,7 +36,7 @@ The heatmap visualization of crack sensitive features:
 
 ### Install
 
-Clone [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) repo and add the codes of `configs`, `mmseg/datasets/crack500.py` and `mmseg/models/decode_heads/ccmamba_head.py` into corresding files of MMSegmentation.
+Clone [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) repo and [CCMamba](https://github.com/BinghaoLiu/CCMamba), add the codes of `configs`, `mmseg/datasets/crack500.py` and `mmseg/models/decode_heads/ccmamba_head.py` into corresding files of MMSegmentation.
 
 Then, run
 `pip install -v -e .`
