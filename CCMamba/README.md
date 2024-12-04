@@ -28,7 +28,7 @@ The overall architecture of Multi-Head Criss-Cross Mamba:
 
 The heatmap visualization of crack sensitive features:
 
-<p align="left">
+<p align="center">
   <img src="images/vis.png" width="540">
 </p>
 
