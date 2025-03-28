@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">A Voronoi Density based Locally Unique Classification Network for Fine-grained Mulitilabel Learning</h1>
+  <h1 align="center">A Voronoi Density based Locally Unique Network for Fine-grained Multilabel Classification</h1>
   <p align="center">
 
 
@@ -25,7 +25,7 @@
 
 
 ## Introduction
-This repo is the implementation of "A Voronoi Density based Locally Unique Classification Network for Fine-grained Mulitilabel Learning"
+This repo is the implementation of "A Voronoi Density based Locally Unique Network for Fine-grained Multilabel Classification"
 
 <p align="center">
   <img src="images/VoLUNet.png" width="720">
