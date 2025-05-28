@@ -5,7 +5,8 @@ Fine-grained Multilabel Learning:
 [VoLUNet](https://github.com/cv516Buaa/BinghaoLiu/tree/main/VoLUNet) (IEEE TCSVT 2025)
 
 Semantic Segmentation:
-[FDTran](https://github.com/cv516Buaa/BinghaoLiu/tree/main/FDTran) (In peer review), [CCMamba](https://github.com/cv516Buaa/BinghaoLiu/tree/main/CCMamba) (In peer review)
+[FDTran](https://github.com/cv516Buaa/BinghaoLiu/tree/main/FDTran) (In peer review), [CCMamba](https://github.com/cv516Buaa/BinghaoLiu/tree/main/CCMamba) (In peer review), [LCED](https://github.com/cv516Buaa/BinghaoLiu/tree/main/LCED) (In peer review)
+
 
 ## Datasets
 Africa water segmentation dataset:
