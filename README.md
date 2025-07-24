@@ -5,7 +5,7 @@ Fine-grained Multilabel Learning:
 [VoLUNet](https://github.com/cv516Buaa/BinghaoLiu/tree/main/VoLUNet) (IEEE TCSVT 2025)
 
 Semantic Segmentation:
-[FDTran](https://github.com/cv516Buaa/BinghaoLiu/tree/main/FDTran) (In peer review), [CCMamba](https://github.com/cv516Buaa/BinghaoLiu/tree/main/CCMamba) (In peer review), [LCED](https://github.com/cv516Buaa/BinghaoLiu/tree/main/LCED) (In peer review)
+[FDTran](https://github.com/cv516Buaa/BinghaoLiu/tree/main/FDTran) (JAG 2025), [CCMamba](https://github.com/cv516Buaa/BinghaoLiu/tree/main/CCMamba) (In peer review), [LCED](https://github.com/cv516Buaa/BinghaoLiu/tree/main/LCED) (In peer review)
 
 
 ## Datasets
@@ -24,5 +24,16 @@ If you find this code useful please cite:
   year={2025},
   pages={1-1},
   doi={10.1109/TCSVT.2025.3570440}
+}
+
+@article{LIU2025104741,
+title = {African water body segmentation with cross-layer information separability based feature decoupling transformer},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {142},
+pages = {104741},
+year = {2025},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2025.104741}
+author = {Binghao Liu and Qi Zhao and Chunlei Wang and Meng Li and Hongbo Xie and Lijiang Chen}
 }
 ```
