@@ -78,7 +78,20 @@ The pretrained weights of FDTran (with mit_b5 as backbone) can be found at [http
 
 ## Citation
 
-If you have any question, please discuss with me by sending email to liubinghao@buaa.edu.cn
+If you have any question, please discuss with me by sending email to liubinghao@buaa.edu.cn.
+If you find this code useful please cite:
+```
+@article{LIU2025104741,
+title = {African water body segmentation with cross-layer information separability based feature decoupling transformer},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {142},
+pages = {104741},
+year = {2025},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2025.104741}
+author = {Binghao Liu and Qi Zhao and Chunlei Wang and Meng Li and Hongbo Xie and Lijiang Chen}
+}
+```
 
 ## References
 
