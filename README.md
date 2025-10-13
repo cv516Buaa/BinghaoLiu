@@ -20,9 +20,11 @@ If you find this code useful please cite:
 @ARTICLE{11005551,
   author={Liu, Binghao and Zhao, Qi and Wang, Chunlei and Li, Meng and Chen, Lijiang},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={A Voronoi Density based Locally Unique Network for Fine-grained Multi-label Classification}, 
+  title={A Voronoi Density-Based Locally Unique Network for Fine-Grained Multi-Label Classification}, 
   year={2025},
-  pages={1-1},
+  volume={35},
+  number={10},
+  pages={10083-10098},
   doi={10.1109/TCSVT.2025.3570440}
 }
 
